@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Up to this lesson, the course has been relatively easy. I have had short moments of getting stuck in a few exercises, but have been able to solve the situation by utilizing the HTML elements reference site. This has been the most important skill I have learned so far. I did not know if this site and in the few past experiences with HTML, I have use general Google searches to find these kind of answers. I think this will save me a lot of time. 
+
+Additionally, I learned how to deal with images, something I have not done in the past. 
+

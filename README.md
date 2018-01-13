@@ -1,0 +1,1 @@
+This is the project from lesson 3 of the Front End Web Development Challenge from Udacity and Google. The project was to build a site that look like the designed mockup (pdf file). The code is on the index.html file and the reflection from my learning experience are in the reflection.txt file
